@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7268D41C-53A2-44B4-B5E5-D299F4B88C71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9A9BC00-AB56-4A09-9BF7-6E218F86BF8C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECA222FD-7B84-4DA1-87A7-AA7672C1249B",
+    "height": 600,
+    "width": 1550,
+    "x": -67,
+    "y": -64
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4832D602-59E0-49BE-B6D3-EC2F1853DE96"
+    },
+    {
+      "class": "bitmap",
+      "id": "2536986B-8382-49CA-A352-8FF876E839B4"
+    }
+  ],
+  "name": "holdinglightbulb_pink:blue",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9A909587-6449-4DFC-878E-62E96B9F7B43",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E1BE737D-6D47-420C-A1DD-76DD35B9B24B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

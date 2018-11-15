@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "04D686EA-654E-444B-9FEE-6D2C5BB03D85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70126653-42C7-4440-942F-CE7906ED6D0E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4193C790-BD0A-4550-98EC-EF3BE872A318",
+    "height": 80,
+    "width": 239.2,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/backbox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20B70D02-7C10-4D02-B17C-A395FCE50F73",
+      "overrideName": "92459F01-732C-4580-8D4A-B99C9E86E4E7_layerStyle",
+      "value": "384F850E-BDD0-4A73-86F3-82CE723A80C2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.8,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C1FD9130-54DD-433B-BB82-4947F4C4A754",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "90A1822E-5A64-44EA-A1B0-D66B6182CFC5",
+      "opacity": 0.85
+    },
+    "do_objectID": "A312EA96-4CB4-4A8B-A808-802FF11C8F6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6E76FE5F-2A01-4EDF-869F-57573B24AEB6",
+  "verticalSpacing": 0
+}
